@@ -1,0 +1,31 @@
+
+
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+#add-money{
+    text-align: center;
+}
+
+input{
+    width: 200px;
+}
+
+button{
+    width: 130px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+button:hover{
+    cursor: pointer;
+}

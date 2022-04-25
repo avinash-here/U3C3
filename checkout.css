@@ -1,0 +1,22 @@
+
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+#user-detail{
+    text-align: center;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+#movie{
+    text-align: center;
+    margin-top: 16px;
+}
